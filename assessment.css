@@ -1,17 +1,23 @@
-body {
-    background-color: #04A6EB;
-    color: #FDFFFF;
-    width: 500px;
+body{
+    background : linear-gradient(120deg,pink,aqua,);
+    color: white;
+    width:500px;
     margin-right: auto;
-    margin-left : auto;
+    margin-left: auto;
+
 }
-button {
-    padding: 5px 20px;
-    background-color: #337AB7;
-    color: #FDFFFF;
-    border-color: #2E6DA4;
-    border-style: none;
+button{
+    background : linear-gradient(120deg,aqua,yellow);
+    padding:5px 20px;
+    background-color:darkblue;
+    border-style:none;
+    border-radius: 50px;
+    color:white;
 }
-input {
-    height: 20px;
+input{
+    height:20px;
+    border-radius:50px;
+}
+div{
+    border-radius: 10px;
 }
